@@ -1,2 +1,1 @@
-# rsschool-cv
-andykrau JS/FE Pre-School 2022Q2
+https://andykrau.github.io/rsschool-cv/cv
