@@ -25,8 +25,17 @@ n = 0 ** (a % b)
 print('YES' * n, 'NO' * (0 ** n), sep='')
 ```
 ## Experience:
+2018-2022 - IKEA. Technical support specialist.  
+2016-2018 - IKEA. Graphic designer.  
+2012.6-2016 - IKEA. Visual merchandiser.  
+2012-2012.6 - IKEA. B2b department.  
 ## Education:
+Trainigs:  
++ Softline: VMware vSphere: Fast Track [V7]
++ Softline: 20411 - Administration Windows Server 2012 R2
+University:  
++2006-2011 Siberian University of Consumer Cooperation. Specialty: applied computer science.
 ## Languages:
-Russian: native languages;
-English: pre-intermediate;
-Deutsch: B1 Goethe institute.
+Russian: native languages;  
+English: pre-intermediate;  
+Deutsch: B1 Goethe institute.  
