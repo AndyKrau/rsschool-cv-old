@@ -1,4 +1,4 @@
-![Andrey Krase](//rsschool-cv/KrauseAndrey.jpg)
+![Andrey Krase](//rsschool-cv/KrauseAndrey.png)
 # Andrey Krause
 ## Contacts:
 Phone: +7-985-368-7178  
