@@ -10,7 +10,7 @@ Telegram: @AndyKrau
 Hello, I`am Technical support specialist in IKEA Moscow. I work at IKEA 10 year. Global crisis is good opportunity for people who would like to change profession.
 Some time ago I find free courses on RS school. Firstly I didn't believe that it possible to take education absolutely free. After that I decided to try it.
 Today I pursuit to be Front-End developer. For reach this aim I started course JS/FE Pre-School 2022Q2 and planning continue JavaScript/Front-end 2022Q3 in RS school.
->*Viam supervadet vadens.*
+>*Viam supervadet vadens.*  
 ## Skills:
 + VMware;
 + Cisco;
