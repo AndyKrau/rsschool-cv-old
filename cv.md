@@ -1,6 +1,6 @@
 # Andrey Krause
 ## Contacts:
-Phone: +7 985 368 7178  
+Phone: +7-985-368-7178  
 E-mail: [andrey.krause@yandex.ru](mailto:andrey.krause@yandex.ru "text to andrey.krause@yandex.ru")  
 GitHub: [AndyKrau](https://github.com/AndyKrau "link to GitHub")  
 Discord: [AndyKrau](https://github.com/AndyKrau "link to Discord")  
@@ -17,7 +17,7 @@ Today I pursuit to be Front-End developer. For reach this aim I started course J
 + Adobe package (Ai,Ae,Id);
 + HTML/CSS.
 ## Example of my code:
-*Python example*
+*Python example:*
 ```
 a = int(input())
 b = int(input())
@@ -32,7 +32,7 @@ print('YES' * n, 'NO' * (0 ** n), sep='')
 ## Education:
 Trainigs:  
 + Softline: VMware vSphere: Fast Track [V7]
-+ Softline: 20411 - Administration Windows Server 2012 R2
++ Softline: 20411 - Administration Windows Server 2012 R2  
 University:  
 +2006-2011 Siberian University of Consumer Cooperation. Specialty: applied computer science.
 ## Languages:
