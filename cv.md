@@ -1,4 +1,3 @@
-![Andrey Krause](https://github.com/AndyKrau/rsschool-cv/blob/gh-pages/KrauseAndrey.png)
 # Andrey Krause
 ## Contacts:
 Phone: +7-985-368-7178  
