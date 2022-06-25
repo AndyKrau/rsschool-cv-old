@@ -17,6 +17,7 @@ Today I pursuit to be Front-End developer. For reach this aim I started course J
 + Microsoft servers;
 + Adobe package (Ai,Ae,Id);
 + HTML/CSS.
+
 ## Example of my code:
 *Python example:*
 ```
@@ -25,11 +26,13 @@ b = int(input())
 n = 0 ** (a % b)
 print('YES' * n, 'NO' * (0 ** n), sep='')
 ```
+
 ## Experience:
 2018-2022 - IKEA. Technical support specialist.  
 2016-2018 - IKEA. Graphic designer.  
 2012.6-2016 - IKEA. Visual merchandiser.  
 2012-2012.6 - IKEA. B2b department.  
+
 ## Education:
 Trainigs:  
 + Softline: VMware vSphere: Fast Track [V7]
@@ -37,6 +40,7 @@ Trainigs:
 
 University:  
 + 2006-2011 Siberian University of Consumer Cooperation. Specialty: applied computer science.
+
 ## Languages:
 Russian: native language;  
 English: pre-intermediate;  
