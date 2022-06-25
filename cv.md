@@ -1,3 +1,4 @@
+![Andrey Krase](//rsschool-cv/KrauseAndrey.jpg)
 # Andrey Krause
 ## Contacts:
 Phone: +7-985-368-7178  
@@ -37,6 +38,6 @@ Trainigs:
 University:  
 + 2006-2011 Siberian University of Consumer Cooperation. Specialty: applied computer science.
 ## Languages:
-Russian: native languages;  
+Russian: native language;  
 English: pre-intermediate;  
-Deutsch: B1 Goethe institute.  
+Deutsche: B1 Goethe institute.  
