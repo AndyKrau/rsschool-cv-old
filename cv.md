@@ -33,6 +33,7 @@ print('YES' * n, 'NO' * (0 ** n), sep='')
 Trainigs:  
 + Softline: VMware vSphere: Fast Track [V7]
 + Softline: 20411 - Administration Windows Server 2012 R2  
+
 University:  
 + 2006-2011 Siberian University of Consumer Cooperation. Specialty: applied computer science.
 ## Languages:
