@@ -5,22 +5,51 @@ body {
 }
 
 img {
+    width: 250px;
+    height: 250px;
     padding: 30px 70px;
 }
 
+.name-h1, .speciality {
+    position: absolute;
+    top: 80px;
+    left: 400px;
+}
 
 
 .contacts {
     background-color: #fff;
     text-align: right;
-    width: 250px;
+    line-height: 21px;
+    width: 350px;
     border: 0px solid #000;
     border-radius: 7px;
     padding: 20px 30px 20px 20px;
     box-shadow: 2px 2px 15px rgb(175, 175, 175);
+    position: absolute;
+    top: 70px;
+    left: 800px;
 }
 
-.my-info, .skills, .code-example, .education, .language {
+.my-info-h2 {
+    position: absolute;
+    bottom: 350px;
+    left: 500px;
+}
+
+.my-info {
+    background-color: #fff;
+    width: 550px;
+    border: 0px solid #000;
+    border-radius: 7px;
+    padding: 20px 20px 20px 30px;
+    box-shadow: 2px 2px 15px rgb(175, 175, 175);
+    position: absolute;
+    bottom: 150px;
+    left: 450px;
+}
+
+.skills {
     background-color: #fff;
     width: 550px;
     border: 0px solid #000;
@@ -29,5 +58,11 @@ img {
     box-shadow: 2px 2px 15px rgb(175, 175, 175);
 }
 
-
-
+.code-example, .education, .language {
+    background-color: #fff;
+    width: 550px;
+    border: 0px solid #000;
+    border-radius: 7px;
+    padding: 20px 20px 20px 30px;
+    box-shadow: 2px 2px 15px rgb(175, 175, 175);
+}
