@@ -16,7 +16,8 @@ Today I pursuit to be Front-End developer. For reach this aim I started course J
 + Cisco;
 + Microsoft servers;
 + Adobe package (Ai,Ae,Id);
-+ HTML/CSS.
++ HTML/CSS(code-basics);
++ Github.
 
 ## Example of my code:
 *Python example:*
