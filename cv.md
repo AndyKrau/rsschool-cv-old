@@ -28,10 +28,7 @@ print('YES' * n, 'NO' * (0 ** n), sep='')
 ```
 
 ## Experience:
-2018-2022 - IKEA. Technical support specialist.  
-2016-2018 - IKEA. Graphic designer.  
-2012.6-2016 - IKEA. Visual merchandiser.  
-2012-2012.6 - IKEA. B2b department.  
+1. [CV](https://andykrau.github.io/rsschool-cv/cv "link to CV")
 
 ## Education:
 Trainigs:  
