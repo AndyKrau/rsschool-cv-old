@@ -1,0 +1,33 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #FAF8F6;
+
+}
+
+img {
+    padding: 30px 70px;
+}
+
+
+
+.contacts {
+    background-color: #fff;
+    text-align: right;
+    width: 250px;
+    border: 0px solid #000;
+    border-radius: 7px;
+    padding: 20px 30px 20px 20px;
+    box-shadow: 2px 2px 15px rgb(175, 175, 175);
+}
+
+.my-info, .skills, .code-example, .education, .language {
+    background-color: #fff;
+    width: 550px;
+    border: 0px solid #000;
+    border-radius: 7px;
+    padding: 20px 20px 20px 30px;
+    box-shadow: 2px 2px 15px rgb(175, 175, 175);
+}
+
+
+
