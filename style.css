@@ -10,9 +10,15 @@ img {
     padding: 30px 70px;
 }
 
-.name-h1, .speciality {
+.name-h1 {
     position: absolute;
     top: 80px;
+    left: 400px;
+}
+
+.speciality {
+    position: absolute;
+    top: 150px;
     left: 400px;
 }
 
@@ -33,23 +39,59 @@ img {
 
 .my-info-h2 {
     position: absolute;
-    bottom: 350px;
+    top: 300px;
     left: 500px;
 }
 
 .my-info {
     background-color: #fff;
-    width: 550px;
+    width: 665px;
     border: 0px solid #000;
     border-radius: 7px;
     padding: 20px 20px 20px 30px;
     box-shadow: 2px 2px 15px rgb(175, 175, 175);
     position: absolute;
-    bottom: 150px;
-    left: 450px;
+    top: 370px;
+    left: 485px;
+}
+
+.skills-h2 {
+    position: absolute;
+    top: 300px;
+    left: 70px;
 }
 
 .skills {
+    background-color: #fff;
+    width: 350px;
+    border: 0px solid #000;
+    border-radius: 7px;
+    padding: 20px 20px 20px 30px;
+    box-shadow: 2px 2px 15px rgb(175, 175, 175);
+    position: absolute;
+    top: 370px;
+    left: 50px;
+}
+
+.code-example-h2 {
+    position: absolute;
+    top: 550px;
+    left: 500px;
+}
+
+.code-example {
+    background-color: #fff;
+    width: 665px;
+    border: 0px solid #000;
+    border-radius: 7px;
+    padding: 20px 20px 20px 30px;
+    box-shadow: 2px 2px 15px rgb(175, 175, 175);
+    position: absolute;
+    top: 620px;
+    left: 485px;
+}
+
+.education {
     background-color: #fff;
     width: 550px;
     border: 0px solid #000;
@@ -58,7 +100,7 @@ img {
     box-shadow: 2px 2px 15px rgb(175, 175, 175);
 }
 
-.code-example, .education, .language {
+.language {
     background-color: #fff;
     width: 550px;
     border: 0px solid #000;
