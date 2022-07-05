@@ -2,6 +2,22 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: #FAF8F6;
     line-height: 1.5;
+    font-size: 18px;
+}
+
+.code {
+    padding-left: 30px;
+}
+
+.main-page {
+    width: 1350px;
+    height: 2000px;
+    background-color: #FAF8F6;
+    position: relative;
+    left: 0; 
+    right: 0;
+    margin-left: auto; 
+    margin-right: auto;
 }
 
 img {
@@ -13,49 +29,48 @@ img {
 .name-h1 {
     position: absolute;
     top: 80px;
-    left: 400px;
+    left: 360px;
 }
 
 .speciality {
     position: absolute;
     top: 150px;
-    left: 400px;
+    left: 360px;
 }
-
 
 .contacts {
     background-color: #fff;
     text-align: right;
-    line-height: 21px;
-    width: 350px;
+    line-height: 1.5;
+    width: 400px;
     border: 0px solid #000;
-    border-radius: 7px;
-    padding: 20px 30px 20px 20px;
+    border-radius: 15px;
+    padding: 15px 40px;
     box-shadow: 2px 2px 15px rgb(175, 175, 175);
     position: absolute;
-    top: 70px;
-    left: 800px;
+    top: 50px;
+    right: 50px;
+}
+.my-info, .education-uni, .education-trainings, .code-example-python, .code-example-css {
+    box-sizing: border-box;
+    background-color: #fff;
+    width: 790px;
+    border: 0px solid #000;
+    border-radius: 15px;
+    padding: 10px 25px 10px 35px;
+    box-shadow: 2px 2px 15px rgb(175, 175, 175);
+    position: absolute;
+    left: 510px;
 }
 
 .my-info-h2 {
     position: absolute;
     top: 300px;
-    left: 500px;
+    left: 550px;
 }
 
 .my-info {
-    background-color: #fff;
-    width: 665px;
-    border: 0px solid #000;
-    border-radius: 7px;
-    padding: 20px 20px 20px 30px;
-    box-shadow: 2px 2px 15px rgb(175, 175, 175);
-    position: absolute;
-    
-    left: 0; right: 0;
-    margin-left: auto; margin-right: auto;
     top: 370px;
-    /* left: 485px; */
 }
 
 .skills-h2 {
@@ -66,66 +81,59 @@ img {
 
 .skills {
     background-color: #fff;
-    width: 350px;
+    width: 380px;
     border: 0px solid #000;
-    border-radius: 7px;
+    border-radius: 15px;
     padding: 20px 20px 20px 30px;
     box-shadow: 2px 2px 15px rgb(175, 175, 175);
     position: absolute;
     top: 370px;
-    left: 410px;
-}
-
-.code-example-h2 {
-    position: absolute;
-    top: 550px;
-    left: 500px;
-}
-
-.code-example {
-    background-color: #fff;
-    width: 665px;
-    border: 0px solid #000;
-    border-radius: 7px;
-    padding: 20px 20px 20px 30px;
-    box-shadow: 2px 2px 15px rgb(175, 175, 175);
-    position: absolute;
-    top: 620px;
-    left: 485px;
+    left: 50px;
 }
 
 .education-h2 {
     position: absolute;
-    top: 800px;
-    left: 500px;
+    top: 740px;
+    left: 550px;
 }
 
-.education {
-    background-color: #fff;
-    width: 665px;
-    border: 0px solid #000;
-    border-radius: 7px;
-    padding: 20px 20px 20px 30px;
-    box-shadow: 2px 2px 15px rgb(175, 175, 175);
+.education-uni {
+    top: 810px;
+}
+
+.education-trainings {
+    top: 990px;
+}
+
+.code-example-h2 {
     position: absolute;
-    top: 870px;
-    left: 485px;
+    top: 1160px;
+    left: 550px;
+}
+
+.code-example-python {
+    top: 1230px;
+}
+
+.code-example-css {
+    top: 1470px;
 }
 
 .language-h2 {
     position: absolute;
-    top: 550px;
+    top: 570px;
     left: 70px;
 }
 
 .language {
     background-color: #fff;
-    width: 350px;
+    width: 380px;
     border: 0px solid #000;
-    border-radius: 7px;
+    border-radius: 15px;
     padding: 20px 20px 20px 30px;
     box-shadow: 2px 2px 15px rgb(175, 175, 175);
     position: absolute;
-    top: 620px;
+    top: 650px;
     left: 50px;
 }
+
