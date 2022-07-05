@@ -51,8 +51,11 @@ img {
     padding: 20px 20px 20px 30px;
     box-shadow: 2px 2px 15px rgb(175, 175, 175);
     position: absolute;
+    
+    left: 0; right: 0;
+    margin-left: auto; margin-right: auto;
     top: 370px;
-    left: 485px;
+    /* left: 485px; */
 }
 
 .skills-h2 {
@@ -70,7 +73,7 @@ img {
     box-shadow: 2px 2px 15px rgb(175, 175, 175);
     position: absolute;
     top: 370px;
-    left: 50px;
+    left: 410px;
 }
 
 .code-example-h2 {
