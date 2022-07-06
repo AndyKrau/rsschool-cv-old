@@ -51,6 +51,8 @@ img {
     top: 50px;
     right: 50px;
 }
+
+
 .my-info, .education-uni, .education-trainings, .code-example-python, .code-example-css {
     box-sizing: border-box;
     background-color: #fff;
@@ -63,45 +65,43 @@ img {
     left: 510px;
 }
 
-.my-info-h2 {
-    position: absolute;
-    top: 300px;
-    left: 550px;
-}
+    .my-info-h2 {
+        position: absolute;
+        top: 300px;
+        left: 550px;
+    }
 
-.my-info {
-    top: 370px;
-}
+    .my-info {
+        top: 370px;
+    }
 
+    .education-h2 {
+        position: absolute;
+        top: 740px;
+        left: 550px;
+    }
 
+    .education-uni {
+        top: 810px;
+    }
 
-.education-h2 {
-    position: absolute;
-    top: 740px;
-    left: 550px;
-}
+    .education-trainings {
+        top: 990px;
+    }
 
-.education-uni {
-    top: 810px;
-}
+    .code-example-h2 {
+        position: absolute;
+        top: 1160px;
+        left: 550px;
+    }
 
-.education-trainings {
-    top: 990px;
-}
+    .code-example-python {
+        top: 1230px;
+    }
 
-.code-example-h2 {
-    position: absolute;
-    top: 1160px;
-    left: 550px;
-}
-
-.code-example-python {
-    top: 1230px;
-}
-
-.code-example-css {
-    top: 1470px;
-}
+    .code-example-css {
+        top: 1470px;
+    }
 
 .language-h2 {
     position: absolute;
@@ -115,7 +115,8 @@ img {
     left: 70px;
 }
 
-.skills {
+
+.skills, .tools, .language {
     background-color: #fff;
     width: 380px;
     border: 0px solid #000;
@@ -123,48 +124,32 @@ img {
     padding: 20px 20px 20px 30px;
     box-shadow: 2px 2px 15px rgb(175, 175, 175);
     position: absolute;
-    top: 370px;
     left: 50px;
 }
 
-.tools {
-    background-color: #fff;
-    width: 380px;
-    border: 0px solid #000;
-    border-radius: 15px;
-    padding: 20px 20px 20px 30px;
-    box-shadow: 2px 2px 15px rgb(175, 175, 175);
-    position: absolute;
-    top: 650px;
-    left: 50px;
-}
+    .skills {
+        top: 370px;
+    }
 
-.language {
-    background-color: #fff;
-    width: 380px;
-    border: 0px solid #000;
-    border-radius: 15px;
-    padding: 20px 20px 20px 30px;
-    box-shadow: 2px 2px 15px rgb(175, 175, 175);
-    position: absolute;
-    top: 960px;
-    left: 50px;
-}
+    .tools {
+        top: 650px;
+    }
 
-.pull-right {
-    text-align: right;
-    border-right: 3px solid rgb(204, 204, 204);
-    padding-right: 10px;
+    .language {
+        top: 960px;
+    }
 
-}
+    .pull-right {
+        text-align: right;
+        border-right: 3px solid rgb(204, 204, 204);
+        padding-right: 10px;
+    }
 
 
-.thanks {
-    color: rgb(182, 180, 180);
-    text-align: right;
-    position: absolute;
-    top: 1900px;
-    right: 50px;
-}
-
-
+    .thanks {
+        color: rgb(182, 180, 180);
+        text-align: right;
+        position: absolute;
+        top: 1900px;
+        right: 50px;
+    }
