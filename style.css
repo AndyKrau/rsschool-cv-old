@@ -11,7 +11,7 @@ body {
 
 .main-page {
     width: 1350px;
-    height: 2000px;
+    height: 2300px;
     background-color: #FAF8F6;
     position: relative;
     left: 0; 
@@ -53,7 +53,7 @@ img {
 }
 
 
-.my-info, .education-uni, .education-trainings, .code-example-python, .code-example-css {
+.my-info, .education-uni, .education-trainings, .code-example-python, .code-example-css, .code-example-project {
     box-sizing: border-box;
     background-color: #fff;
     width: 790px;
@@ -103,6 +103,26 @@ img {
         top: 1470px;
     }
 
+    .code-example-project {
+        top: 1910px
+    }
+
+    .pull-right {
+        text-align: right;
+        border-right: 3px solid rgb(204, 204, 204);
+        padding-right: 10px;
+    }
+
+
+    .thanks {
+        color: rgb(182, 180, 180);
+        text-align: right;
+        position: absolute;
+        top: 2200px;
+        right: 50px;
+    }
+
+
 .language-h2 {
     position: absolute;
     top: 570px;
@@ -139,17 +159,3 @@ img {
         top: 960px;
     }
 
-    .pull-right {
-        text-align: right;
-        border-right: 3px solid rgb(204, 204, 204);
-        padding-right: 10px;
-    }
-
-
-    .thanks {
-        color: rgb(182, 180, 180);
-        text-align: right;
-        position: absolute;
-        top: 1900px;
-        right: 50px;
-    }
