@@ -1,2 +1,2 @@
 # rsschool-cv
-andykrau JS/FE Pre-School 2022Q2
+andykrau JavaScript/Front-end 2022Q3
